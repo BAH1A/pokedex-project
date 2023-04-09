@@ -1,0 +1,9 @@
+1. Ao começar o projeto foi instalado o http-server pela biblioteca npm do NodeJs.
+Deixando um arquivo (index) disponivel para acesso na minha rede lan.
+2. Depois foi adicionado o Normilize CSS (https://cdnjs.com/libraries/normalize).
+Servindo para diminuir a diferença do CSS diferentes em cada browser.
+3. Todo o projeto precisa estar bem organizado. Para isso separei a pasta assets (Css, Imagens e JavaScript...)
+Depois vinculei atraves de links todos os arquivos para o arquivo index.html
+4. Foi escolhido a Fonte Roboto, peguei ela no google fonts atraves de um link, depois configurei a regra no arquivo css.
+5. O projeto foi criado na intenção de atender primeiro a menor tela e adicionando novas regras de css ao aumentar a tela.
+Dessa maneira temos uma aplicação responsiva, atendendo grande parte dos diferentes tipos de dispositivos.
