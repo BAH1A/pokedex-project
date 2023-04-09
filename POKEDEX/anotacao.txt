@@ -7,3 +7,6 @@ Depois vinculei atraves de links todos os arquivos para o arquivo index.html
 4. Foi escolhido a Fonte Roboto, peguei ela no google fonts atraves de um link, depois configurei a regra no arquivo css.
 5. O projeto foi criado na intenção de atender primeiro a menor tela e adicionando novas regras de css ao aumentar a tela.
 Dessa maneira temos uma aplicação responsiva, atendendo grande parte dos diferentes tipos de dispositivos.
+
+6. Foi criado o titulo e estilizado a regra css
+7. Criado uma lista ordenada com o nome dos pokemons e a mesma tambem foi estilizada
